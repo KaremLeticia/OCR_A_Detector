@@ -1,5 +1,4 @@
 # OCR_A_Detector
-# OCR-A Detector
 
 Este mini projeto realiza a leitura de imagens contendo texto e identifica automaticamente se há a presença da letra **"A" maiúscula**, utilizando técnicas de **pré-processamento de imagem com OpenCV** e **OCR com Tesseract**.
 
